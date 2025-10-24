@@ -1,6 +1,14 @@
 Project Progression - Group 10
 Video Report: https://www.youtube.com/watch?v=D1aur_q1O9s
 
+
+*****PLAYABLE DEMO BUILD*********
+**********ON ITHC.IO*************
+
+https://stylesq1.itch.io/cheese-escape
+
+
+
 Overview 
 
 *NOTE* If you want a in depth analysis with images of our project watch the video report. 
