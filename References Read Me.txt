@@ -1,0 +1,10 @@
+Added with aAvaro approval, everything was submitted on time 
+
+Diffuse, Ambient, Specular take from class tutorial and combined
+Metallic specular variation of class shader 
+Toon Ramp taken from class canvas and adjusted to fit our game
+Rim light refed from https://youtu.be/jcMRaFF9RRI?si=te3Jhxk3n20oA5QT
+Hologram shader made using Fresnel effect shown in class 
+Flat shader using in class canvas code
+Outline shader refed from 3 different videos and research https://youtu.be/Bm6Bmcjd1Mw?si=n_YQAjOXnVTGG2ev  https://youtu.be/VGIkT9fPh7Y?si=SD_dG6m2E6Y1mkyk  https://youtu.be/74AS5DmLe8w?si=NkPNjZqAIYn8uAoo
+
