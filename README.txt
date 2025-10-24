@@ -1,5 +1,5 @@
 Project Progression - Group 10
-Video Report: https://www.youtube.com/watch?v=fge0h3FxcLA
+Video Report: https://www.youtube.com/watch?v=D1aur_q1O9s
 
 Overview 
 
@@ -55,6 +55,7 @@ Colour Correction and LUTS
 Colour correction is a way of creating unique filters for your game 
 By taking a screenshot of the game, and adjusting the colours of the image, than applying them to the neutral colour LUT 
 Then applying that LUT to our Colour Look up
+Created a total of 6 different color correction shaders
 
 Rim Lighting Shader
 
