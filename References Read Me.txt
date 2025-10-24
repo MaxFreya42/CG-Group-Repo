@@ -8,3 +8,7 @@ Hologram shader made using Fresnel effect shown in class
 Flat shader using in class canvas code
 Outline shader refed from 3 different videos and research https://youtu.be/Bm6Bmcjd1Mw?si=n_YQAjOXnVTGG2ev  https://youtu.be/VGIkT9fPh7Y?si=SD_dG6m2E6Y1mkyk  https://youtu.be/74AS5DmLe8w?si=NkPNjZqAIYn8uAoo
 
+Movement controls
+WASD 
+Space to jump 
+keypad 1,2,3,4,5,6,7 Swapping colour 
