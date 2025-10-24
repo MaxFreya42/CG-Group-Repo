@@ -8,15 +8,20 @@ public class PlayerController : MonoBehaviour
     Vector2 _moveDir;
     Rigidbody _rb;
 
+   
+
     private void Awake()
     {
+        
         _rb = GetComponent<Rigidbody>();
+        
     }
 
     private void OnEnable()
     {
         PlayerInputHandler.MoveInput += OnMoveInput;
         PlayerInputHandler.JumpInput += OnJumpInput;
+
     }
 
     private void OnDisable()
