@@ -123,7 +123,11 @@ Material:
     - _FadeDistance: 1
     - _Flow_Speed: 0.01
     - _Flow_Strength: 0.0075
+    - _FoamAmount: 2.18
+    - _FoamCutoff: 4.88
+    - _FoamScale: 2.13
     - _FoamSpeed: 0.1
+    - _FoamSpeed5: 0.22
     - _Freq: 0.33
     - _Frequency: 15
     - _GlossMapScale: 0
@@ -156,7 +160,8 @@ Material:
     - _Color_1: {r: 1, g: 0, b: 0, a: 1}
     - _DarkFoam_Colour: {r: 0.112495445, g: 0.30188674, b: 0.20974696, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FadeColour: {r: 1, g: 0.3915094, b: 0.3915094, a: 1}
+    - _FadeColour: {r: 0.078233, g: 1, b: 0, a: 1}
+    - _FoamColour: {r: 1.610409, g: 2.2609718, b: 2.0571811, a: 0}
     - _LightFoam_Colour: {r: 0.8241574, g: 0.9716981, b: 0.6737718, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _WaterColour: {r: 0.17728725, g: 0.45283014, b: 0.26698098, a: 1}
