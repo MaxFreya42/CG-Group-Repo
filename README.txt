@@ -113,6 +113,7 @@ Unique visual and coherent style across all models
 
 
 ////////// FINAL COURSE PROJECT README SECTION ///////////
+Link to our video report: https://youtu.be/O4vnOt0sJ9c
 
 Dust:
 What is it?
