@@ -87,8 +87,8 @@ public class ToggleColour : MonoBehaviour
             {
                 ColourObjectToEnable_1.SetActive(false);
                 ColourObjectToEnable_3.SetActive(false);
-                ColourObjectToEnable_4.SetActive(true);
-                ColourObjectToEnable_5.SetActive(false);
+                ColourObjectToEnable_4.SetActive(false);
+                ColourObjectToEnable_5.SetActive(true);
                 ColourObjectToEnable_2.SetActive(false);
             }
         }
@@ -101,7 +101,7 @@ public class ToggleColour : MonoBehaviour
                 ColourObjectToEnable_1.SetActive(false);
                 ColourObjectToEnable_2.SetActive(false);
                 ColourObjectToEnable_3.SetActive(false);
-                ColourObjectToEnable_4.SetActive(false);
+                ColourObjectToEnable_4.SetActive(true);
                 ColourObjectToEnable_5.SetActive(true);
                 
             }

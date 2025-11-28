@@ -42990,10 +42990,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ToggleColour
   ColourObjectToEnable: {fileID: 1479817499}
   ColourObjectToEnable_1: {fileID: 1781633747}
-  ColourObjectToEnable_2: {fileID: 372161304}
-  ColourObjectToEnable_3: {fileID: 1881831031}
-  ColourObjectToEnable_4: {fileID: 150334186}
-  ColourObjectToEnable_5: {fileID: 747032876}
+  ColourObjectToEnable_2: {fileID: 927071213}
+  ColourObjectToEnable_3: {fileID: 1829987383}
+  ColourObjectToEnable_4: {fileID: 927071213}
+  ColourObjectToEnable_5: {fileID: 1829987383}
   activationKey1: 257
   activationKey2: 258
   activationKey3: 259
@@ -45893,6 +45893,10 @@ PrefabInstance:
     - target: {fileID: 7986835453470727990, guid: 0693236a1cc88c24aafd50e48281c36b, type: 3}
       propertyPath: m_Name
       value: TorchFireParticles
+      objectReference: {fileID: 0}
+    - target: {fileID: 7986835453470727990, guid: 0693236a1cc88c24aafd50e48281c36b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
