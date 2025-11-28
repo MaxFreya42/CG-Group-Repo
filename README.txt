@@ -162,6 +162,8 @@ Vector 2 applied to our offset
 Applied twice and combined with Add to create water variety
 Why did we choose to use it?What's it doing for us
 Create moving water for our games pixelated cartoon style, and simulate water depth using 2 scrolling textures. 
+Sources/tools used:
+Adobe Photoshop
 
 Water Vertex Displacement:
 What is this?
@@ -191,6 +193,8 @@ Cone Shape Emission
 Noise and Frequency
 Why did we choose to use it?What's it doing for us
 Add the final cherry on top to the water in our scene.
+Sources/tools used:
+Adobe Photoshop
 
 Torch Fire:
 What is this?
