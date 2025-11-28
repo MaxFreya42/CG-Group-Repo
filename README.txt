@@ -115,6 +115,18 @@ Unique visual and coherent style across all models
 ////////// FINAL COURSE PROJECT README SECTION ///////////
 Link to our video report: https://youtu.be/O4vnOt0sJ9c
 
+Textures:
+What is it?
+flat textures with normal maps and hight maps to fake complex details.
+How does it work?
+The normal map, roughness (metallic) map and hight map tell the engine how light should bounce off of our textures giving them the illusion of depth.
+Why did we choose to use this:
+We wanted to make every part of the scene interesting without effecting the games preformance. normal maps and hight maps allow us to achive that detail much easier then physicaly moddeling the desierd detail, while also being much easie on the games preformance.
+Sources/tools used:
+Aseprite
+Adobe Substance 3D Designer
+Adobe Substance 3D Painter
+ 
 Dust:
 What is it?
 The dust effect is a simple particle system where random particles fall slowly, simulating dust in the air. 
